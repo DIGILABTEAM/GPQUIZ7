@@ -3,7 +3,7 @@ var data =
 	[
 		[
 			{
-			  question: "21.	Which of the following is true statement?",
+			  question: "Which of the following is true statement?",
 			  option1: "Evidence has shown that Levosalbutamol is not cost-effective treatment when compared to racemic salbutamol",
 			  option2: "Evidence has shown that Levosalbutamol is more cost-effective treatment when compared to racemic salbutamol",
 			  option3: "Both are equally cost effective",
